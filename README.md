@@ -125,3 +125,7 @@ By minimizing these losses, the output image gradually acquires the artistic sty
 * Adding a GUI interface or web app for easier use.
 * Batch processing of multiple images.
 * Video style transfer capabilities.
+
+#STYLE
+
+![Image](https://github.com/user-attachments/assets/1426ce90-0401-4784-94ca-e6954da9a766)
