@@ -129,3 +129,8 @@ By minimizing these losses, the output image gradually acquires the artistic sty
 #STYLE
 
 ![Image](https://github.com/user-attachments/assets/1426ce90-0401-4784-94ca-e6954da9a766)
+
+
+#INPUT
+
+![Image](https://github.com/user-attachments/assets/e95d4b6d-b2f6-49f1-9a0f-3c6a4c6d57e7)
